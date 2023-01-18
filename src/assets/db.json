@@ -1,0 +1,81 @@
+[{
+    "id": "1",
+    "title": "Apple iPhone 11",
+    "price": "80,990",
+    "description": "Red color,128GB Ram",
+    "image": "https://www.bing.com/th?id=OIP.-5rULkNATMiKcd8aaZ5AtwHaHz&w=243&h=256&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+  },
+  
+  {
+   
+    "id": "2",
+    "title": "iPhone 12Pro Max",
+    "price": "100000",
+    "description": "blue color,128GB ,8 GB Ram",
+    "image": "https://poshiumgallery.com/wp-content/uploads/2020/11/12-Pro-Max-Back-xl.jpg"
+  },
+  
+  {
+    
+    "id": "3",
+    "title": "iPhone 13 pro",
+    "price": "1,34,4900",
+    "description": "silver color,128GB ,8 GB Ram",
+    "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703015/Croma%20Assets/Communication/Mobiles/Images/261965_a7x8zh.png/mxw_2048,s_webp,f_auto"
+  },
+  {
+    
+    "id": "4",
+    "title": "iPhone 14 Pro Max",
+    "price": "1,90,000",
+    "description": "black,128GB,8GB Ram",
+    "image": "https://th.bing.com/th?q=iPhone+13+Pro+Black&dc=2&w=100&h=100&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247"
+  },
+  {
+    
+    "id": "5",
+    "title": "Iphone 9",
+    "price": "50,000",
+    "description": "white color,128GB,6GB Ram",
+    "image": "https://i.pinimg.com/originals/84/cf/b4/84cfb46f705ec53031785023fed9e6f3.png"
+  },
+  {
+    "id": "6",
+    "title": "iPhone",
+    "price": "70,000",
+    "description": "white color,128GB,6GB Ram",
+    "image": "https://th.bing.com/th/id/OIP.OhXInJmU2nFEkyXmHaMBuAHaFj?w=240&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    
+    "id": "7",
+    "title": "iPhone 8",
+    "price": "90,000",
+    "description": "Red color,64GB,6GB Ram",
+    "image": "https://static2.privatesportshop.com/img/p/3022253-9228668-thickbox.jpg"
+  },
+  {
+    
+    "id": "8",
+    "title": "iPhone 6s",
+    "price": "56,000",
+    "description": "White color,64GB,4GB Ram",
+    "image": "https://static.swappa.com/media/listing/LRPC05182/xnZVkMcJ.jpg"
+  },
+  {
+    
+    "id": "9",
+    "title": "iphone 5s",
+    "price": "40,000",
+    "description": "Silver,32GB,2GB Ram",
+    "image": "https://imgs.inkfrog.com/pix/guaranteecellular/2_(1)_0001.png"
+  },
+  {
+    
+    "id": "10",
+    "title": "iphone 4s",
+    "price": "30,000",
+    "description": "white,32GB,2GB Ram",
+    "image": "https://rukminim1.flixcart.com/image/416/416/mobile/g/y/c/apple-iphone-4s-32gb-white-4s-original-imaebufj5ygv4kuz.jpeg?q=70"
+  }
+  ]
